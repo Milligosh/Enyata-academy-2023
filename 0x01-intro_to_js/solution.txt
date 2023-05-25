@@ -1,0 +1,16 @@
+1.- const cannot be changed and is used when no changes will be made. 
+  -The let is used when an assigned value can be changed at a point.
+   -Var is globally scoped whiles let and const is a function scope.
+
+2.a variable can be used by calling it.
+
+3. a string can be declared by using quotation marks after the assignment operator.
+
+4.strings can be declared  using either double or single quotes. both can be used interchangeably.
+
+5. "9" is a string whiles 9 is an integer
+
+6.-Declaration means creating a new variable
+  -Redeclaration means recreating an already existing variable
+  -assignment means giving a value to our declared variable
+  -Reassignment means changing the value in a variable that has already been declared.
