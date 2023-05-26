@@ -2,10 +2,10 @@ const favoriteNumber= 12;
 
 const halfofFavNumber= favoriteNumber /2;
 
-let IsaacsFavorite =13;
+let isaacsFavorite =13;
 
-IsaacsFavorite= IsaacsFavorite -favoriteNumber;
+isaacsFavorite= isaacsFavorite -favoriteNumber;
 
-IsaacsFavorite=IsaacsFavorite * 26;
+isaacsFavorite=isaacsFavorite * 26;
 
-IsaacsFavorite= IsaacsFavorite % 3;
+saacsFavorite= isaacsFavorite % 3;
