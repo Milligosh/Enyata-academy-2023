@@ -8,4 +8,4 @@ isaacsFavorite= isaacsFavorite -favoriteNumber;
 
 isaacsFavorite=isaacsFavorite * 26;
 
-saacsFavorite= isaacsFavorite % 3;
+isaacsFavorite= isaacsFavorite % 3;
