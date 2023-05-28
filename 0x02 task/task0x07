@@ -1,0 +1,18 @@
+
+function createStory() {
+let name = prompt("enter your name: ");
+let gender = prompt("enter your gender: ");
+let age =parseInt (prompt("enter your age: "));
+let storyName = prompt("enter the title of your story: ");
+let storyIntro =(" I travelled to a far away town in search of money. ");
+let storySuspense=("I noticed my bag had become heavy")
+let storyContinuation=("I came back home to realize I had been tricked");
+let storyConclusion= ("This is the story of my life");
+
+    let story=("My name is " + name +". I am a" + " "+ gender + ". I am " + age +"years old. The title of my story is "+storyName+"." + storyIntro + storySuspense  + "." + storyContinuation +"." + storyConclusion)
+    
+    let output=alert(story);
+    return output;
+}
+createStory();
+
